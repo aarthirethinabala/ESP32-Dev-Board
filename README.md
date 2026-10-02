@@ -36,19 +36,19 @@ The board was designed from the schematic stage through PCB layout and routing, 
 
 ## Project Images
 ### Root Schematic
-[Root Schematic](images/esp32-root-page-schematic.png)
+[Root Schematic](Images/esp32-root-page-schematic.png)
 
 ### Page 2 Schematic
-[Page 2 Schematic](images/esp32-pg2-schematic.png)
+[Page 2 Schematic](Images/esp32-pg2-schematic.png)
 
 ### PCB Layout
-[PCB Layout](images/esp32-dev-board-pcb.png)
+[PCB Layout](Images/esp32-dev-board-pcb.png)
 
 ### 3D Front View 
-[3D Front View](images/esp32-3d-front-view.png)
+[3D Front View](Images/esp32-3d-front-view.png)
 
 ### 3D Back View
-[3D Back View](images/esp32-3d-back-view.png)
+[3D Back View](Images/esp32-3d-back-view.png)
 
 ## What I Learned
 - Hierarchical schematic organization
